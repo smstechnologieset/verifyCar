@@ -1,0 +1,6 @@
+import 'package:ethiodrive_history/domain/models/app_settings.dart';
+
+abstract class SettingsRepository {
+  Stream<AppSettings> watchSettings();
+  Future<void> updateSettings(AppSettings settings);
+}

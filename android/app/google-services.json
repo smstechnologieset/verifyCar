@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662396659379",
+    "project_id": "vehicleverify-f6ca8",
+    "storage_bucket": "vehicleverify-f6ca8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662396659379:android:4ad2ac0903ca1058bc72c6",
+        "android_client_info": {
+          "package_name": "com.vehicleverify.vehicle_history_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNGY8sI-NZfzyiKNpxCEldh_rqLxCr0hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
